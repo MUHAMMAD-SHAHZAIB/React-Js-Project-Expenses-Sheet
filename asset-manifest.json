@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Js-Project-Expenses-Sheet/static/css/main.e04d6ef6.css",
+    "main.js": "/React-Js-Project-Expenses-Sheet/static/js/main.4a5ffc14.js",
+    "index.html": "/React-Js-Project-Expenses-Sheet/index.html",
+    "main.e04d6ef6.css.map": "/React-Js-Project-Expenses-Sheet/static/css/main.e04d6ef6.css.map",
+    "main.4a5ffc14.js.map": "/React-Js-Project-Expenses-Sheet/static/js/main.4a5ffc14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04d6ef6.css",
+    "static/js/main.4a5ffc14.js"
+  ]
+}
